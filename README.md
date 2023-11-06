@@ -11,9 +11,8 @@ This is a template for creating applications using Laravel and NextUI (v2).
 ## How to Use
 
 ## Installation
-To create a new project based on this template using `create-project`, run the following command:
 ```sh
-composer create-project shinkhantmaung/laravel-inertia-react-nextui-starter
+git clone https://github.com/shinkhantmaung/laravel-inertia-react-nextui-starter.git
 ```
 
 Install npm packages:
